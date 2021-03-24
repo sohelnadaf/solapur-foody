@@ -127,14 +127,14 @@
       <div class="row no-gutters">
         <div class="col-md-4 ftco-animate py-5 nav-link-wrap aside-stretch">
           <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-            <a class="nav-link px-4 active" id="v-pills-master-tab" data-toggle="pill" href="#v-pills-master" role="tab" aria-controls="v-pills-master" aria-selected="true"><span class="mr-3 flaticon-bed"></span> Master Bedrooms</a>
-            <a class="nav-link px-4" id="v-pills-buffet-tab" data-toggle="pill" href="#v-pills-buffet" role="tab" aria-controls="v-pills-buffet" aria-selected="false"><span class="mr-3 flaticon-tray"></span> Breakfast Buffet</a>
-            <a class="nav-link px-4" id="v-pills-fitness-tab" data-toggle="pill" href="#v-pills-fitness" role="tab" aria-controls="v-pills-fitness" aria-selected="false"><span class="mr-3 flaticon-woman"></span> Fitness Center</a>
-            <a class="nav-link px-4" id="v-pills-reception-tab" data-toggle="pill" href="#v-pills-reception" role="tab" aria-controls="v-pills-reception" aria-selected="false"><span class="mr-3 flaticon-receptionist"></span> 24 Hour Reception</a>
-            <a class="nav-link px-4" id="v-pills-sea-tab" data-toggle="pill" href="#v-pills-sea" role="tab" aria-controls="v-pills-sea" aria-selected="false"><span class="mr-3 flaticon-deck-chair"></span> Sea View Balcony</a>
-            <a class="nav-link px-4" id="v-pills-spa-tab" data-toggle="pill" href="#v-pills-spa" role="tab" aria-controls="v-pills-spa" aria-selected="false"><span class="mr-3 flaticon-spa"></span> Pool &amp; Spa</a>
-            <a class="nav-link px-4" id="v-pills-wifi-tab" data-toggle="pill" href="#v-pills-wifi" role="tab" aria-controls="v-pills-wifi" aria-selected="false"><span class="mr-3 flaticon-wifi-router"></span> Free wifi</a>
-            <a class="nav-link px-4" id="v-pills-resto-tab" data-toggle="pill" href="#v-pills-resto" role="tab" aria-controls="v-pills-resto" aria-selected="false"><span class="mr-3 flaticon-disco-ball"></span> Resto bar</a>
+            <a class="nav-link px-4 active" id="v-pills-master-tab" data-toggle="pill" href="#v-pills-master" role="tab" aria-controls="v-pills-master" aria-selected="true"><span class="mr-3 flaticon-bed"></span> hotel1</a>
+            <a class="nav-link px-4" id="v-pills-buffet-tab" data-toggle="pill" href="#v-pills-buffet" role="tab" aria-controls="v-pills-buffet" aria-selected="false"><span class="mr-3 flaticon-tray"></span>hotel1</a>
+            <a class="nav-link px-4" id="v-pills-fitness-tab" data-toggle="pill" href="#v-pills-fitness" role="tab" aria-controls="v-pills-fitness" aria-selected="false"><span class="mr-3 flaticon-woman"></span> hotel1</a>
+            <a class="nav-link px-4" id="v-pills-reception-tab" data-toggle="pill" href="#v-pills-reception" role="tab" aria-controls="v-pills-reception" aria-selected="false"><span class="mr-3 flaticon-receptionist"></span> hotel1</a>
+            <a class="nav-link px-4" id="v-pills-sea-tab" data-toggle="pill" href="#v-pills-sea" role="tab" aria-controls="v-pills-sea" aria-selected="false"><span class="mr-3 flaticon-deck-chair"></span> hotel1</a>
+            <a class="nav-link px-4" id="v-pills-spa-tab" data-toggle="pill" href="#v-pills-spa" role="tab" aria-controls="v-pills-spa" aria-selected="false"><span class="mr-3 flaticon-spa"></span> hotel1</a>
+            <a class="nav-link px-4" id="v-pills-wifi-tab" data-toggle="pill" href="#v-pills-wifi" role="tab" aria-controls="v-pills-wifi" aria-selected="false"><span class="mr-3 flaticon-wifi-router"></span> hotel1</a>
+            <a class="nav-link px-4" id="v-pills-resto-tab" data-toggle="pill" href="#v-pills-resto" role="tab" aria-controls="v-pills-resto" aria-selected="false"><span class="mr-3 flaticon-disco-ball"></span>hotel1</a>
           </div>
         </div>
         <div class="col-md-8 ftco-animate p-4 p-md-5 d-flex align-items-center">
@@ -204,8 +204,8 @@
     <div class="container">
       <div class="row justify-content-center mb-5 pb-5">
         <div class="col-md-7 text-center heading-section ftco-animate">
-          <span class="subheading">Our Rooms</span>
-          <h2>Explore our rooms</h2>
+          <span class="subheading">Hotels </span>
+          <h2>Famous Location wise </h2>
         </div>
       </div>
       <div class="row">
@@ -312,7 +312,7 @@
       </div>
     </div>
   </section>
-  <section class="ftco-section-parallax">
+  <!-- <section class="ftco-section-parallax">
     <div class="parallax-img d-flex align-items-md-center align-items-sm-end" style="background-image: url('images/bg_4.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
@@ -325,12 +325,12 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <section class="ftco-section bg-light">
     <div class="container">
       <div class="row justify-content-center mb-5 pb-5">
         <div class="col-md-7 text-center heading-section ftco-animate">
-          <span class="subheading">Our Menu</span>
+          <span class="subheading" style="margin-top:-9px;">Our Menu</span>
           <h2>Restaurant &amp; Bar</h2>
         </div>
       </div>
@@ -1002,7 +1002,7 @@
       <div class="row mb-5">
         <div class="col-md">
           <div class="ftco-footer-widget mb-4">
-            <h2 class="ftco-heading-2">Cozy</h2>
+            <h2 class="ftco-heading-2">Solapur-foody</h2>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
             <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
               <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
